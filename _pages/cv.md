@@ -9,22 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
-* Ph.D in Business Administration, ASU, 2023
-* M.S. in Economics, ASU, 2019
-* M.S. in Economics, CIDE, 2017
-* B.S. in Economics, UPB, 2011
+* Doctorado en Ciencia Política, FLACSO-México, 2000
+* Licenciatura en Sociología, UNAM
 
-Work experience
+Puestos académicos
 ======
-* 2023-Present: Postdoctoral Scholar
-  * Evans Policy Analysis and Research, University of Washington 
-
-* 2017-2018: Research Analyst
-  * ASBA
-
-* 2011-2012: Junior Researcher
-  * INESAD
+* 201X-Presente: Director
+  * CESU, UMSS 
 
   

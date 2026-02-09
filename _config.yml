@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Joaquin Mayorga"
+title                    : "Fernando Mayorga"
 title_separator          : "-"
 name                     : &name "Joaquin Mayorga" 
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://joaquin-mayorga.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Fernando Mayorga"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://fernando-mayorga.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "joaquin-mayorga/joaquin-mayorga.github.io"
+repository               : "fernando-mayorga/fernando-mayorga.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,13 +24,13 @@ repository               : "joaquin-mayorga/joaquin-mayorga.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Joaquin Mayorga"
+  name             : "Fernando Mayorga"
   pronouns         : ""
-  bio              : "Postdoctoral Scholar at Evans Policy Analysis and Research Group"
-  location         : "Seattle, US"
-  employer         : "University of Washington"
+  bio              : "Cientista Político"
+  location         : "Cochabamba, Bolivia"
+  employer         : "CESU-UMSS"
   uri              : ""
-  email            : "jmayorga@uw.edu" 
+  email            : "fermayorgau@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "joaquin-mayorga"
+  github           : # 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -85,11 +85,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Ensayos'
   manuscripts:
-    title: 'Published Papers'    
+    title: 'Libros'    
   conferences:
-    title: 'Work in Progress'
+    title: 'Capítulos en libros'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -138,7 +138,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : ferxmayorga
 facebook:
   username               :
   app_id                 :

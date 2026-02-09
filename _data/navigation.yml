@@ -9,16 +9,16 @@
 
 main:
 
-  - title: "Research"
+  - title: "Publicaciones"
     url: /publications/  
 
-  - title: "Software"
-    url: /teaching/    
+  #- title: "Software"
+  #  url: /teaching/    
 
   - title: "CV"
     url: /cv/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
     
   # - title: "CV"

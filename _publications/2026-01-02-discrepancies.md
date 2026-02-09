@@ -8,6 +8,6 @@ date: 2026-01-01
 venue: ''
 slidesurl: 
 paperurl: ''
-citation: 'Understanding Discrepancies between Measured and Self-reported Shocks (with Didier Y. Alia and C. Leigh Anderson). <i>Under review</i>.'
+citation: 'Derrota política del MAS y proyecto de restauración oligárquico-señorial. En <i>Crisis y cambio político en Bolivia. Octubre de 2019: La democracia en un encrucijada</i>. [Link](https://biblioteca-repositorio.clacso.edu.ar/bitstream/CLACSO/3516/1/Crisis-cambio-politico-Bolivia.pdf#page=10).'
 ---
 
