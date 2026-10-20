@@ -13,7 +13,7 @@ citation: "
                     <small>  </small> <br> 
           Resistir y retornar: avatares del proceso decisional en el MAS-IPSP (2019-2021) <br> 
                     <small> *Friedrich Ebert Stiftung*, 2022.  </small> <br> 
-                    <small>  [↓ PDF](https://collections.fes.de/publikationen/ident/fes/19716) (Biblioteca FES) </small> <br> 
+                    <small>  [PDF](https://collections.fes.de/publikationen/ident/fes/19716) (Biblioteca FES) </small> <br> 
                     <small>  </small> <br> 
           Mandato y contingencia: estilo de gobierno de Evo Morales <br> 
                     <small> *Friedrich Ebert Stiftung y CLACSO*, 2020. </small> <br> 
