@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## CV completo [aquí](https://drive.google.com/file/d/17tC9e7KiRslFf7IoIg9n6GTSpk0x_RXg/view?usp=sharing). 
+## CV completo [aquí](https://drive.google.com/file/d/17tC9e7KiRslFf7IoIg9n6GTSpk0x_RXg/view?usp=sharing)
 ---
 
 ## Empleo actual
