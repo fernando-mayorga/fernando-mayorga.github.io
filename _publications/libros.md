@@ -16,10 +16,10 @@ citation: "
                     <small> Links: [Descargar PDF de FES](https://collections.fes.de/publikationen/ident/fes/19716) </small> <br> 
                     <small>  </small> <br> 
           Mandato y contingencia: estilo de gobierno de Evo Morales <br> 
-                    <small> *Fundación Friedrich Ebert y CLACSO*, 2020. </small> <br> 
+                    <small> *Friedrich Ebert Stiftung y CLACSO*, 2020. </small> <br> 
                     <small>  </small> <br> 
           Antes y después del referendo: política y democracia en el Estado Plurinacional <br>
-                    <small> *Fundación Friedrich Ebert*, 2019. </small> <br> 
+                    <small> *Friedrich Ebert Stiftung*, 2019. </small> <br> 
                     <small>  </small> <br> 
           Dilemas: Ensayos sobre democracia intercultural y Estado Plurinacional. 2011. <br> 
                     <small>  </small> <br> 
