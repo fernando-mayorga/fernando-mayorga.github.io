@@ -23,8 +23,8 @@ citation: "
           Dilemas: Ensayos sobre democracia intercultural y Estado Plurinacional <br> 
                     <small> *CESU-UMSS, ASDI y Plural Editores*, 2011 </small> <br> 
                     <small>  </small> <br> 
-          Grita la hinchada. 2010. [Link](https://clubaurora40.blogspot.com/2022/01/libro-grita-la-hinchada-grita-la.html). <br> 
-                    <small>  </small> <br>           
+          Grita la hinchada <br> 
+                    <small> 2010. </small> <br>           
           Avatares: ensayos sobre política y sociedad en Bolivia <br> 
                     <small> *CESU-UMSS*, 2003. </small> <br> 
                     <small>  </small> <br> 
