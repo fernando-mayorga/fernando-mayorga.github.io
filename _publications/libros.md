@@ -12,7 +12,7 @@ citation: "
                     <small> *Friedrich Ebert Stiftung*, 2026. </small> <br> 
                     <small>  </small> <br> 
           Resistir y retornar: avatares del proceso decisional en el MAS-IPSP (2019-2021) <br> 
-                    <small> *Friedrich Ebert Stiftung*, 2025, segunda edición (primera edición publicada en 2022).  </small> <br> 
+                    <small> *Friedrich Ebert Stiftung*, 2025. Segunda edición (primera edición publicada en 2022).  </small> <br> 
                     <small>  [PDF](https://collections.fes.de/publikationen/ident/fes/19716) (Biblioteca FES) </small> <br> 
                     <small>  </small> <br> 
           El discurso del nacionalismo revolucionario en Bolivia y otros ensayos <br> 
