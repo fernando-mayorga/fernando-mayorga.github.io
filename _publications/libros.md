@@ -21,14 +21,23 @@ citation: "
           Antes y después del referendo: política y democracia en el Estado Plurinacional <br>
                     <small> *Friedrich Ebert Stiftung*, 2019. </small> <br> 
                     <small>  </small> <br> 
+          Incertidumbres tácticas: ensayos sobre democracia, populismo y ciudadanía <br> 
+                    <small> *PIEB y Ciudadanía*, 2014. </small> <br> 
+                    <small>  </small> <br>           
           Dilemas: Ensayos sobre democracia intercultural y Estado Plurinacional <br> 
                     <small> *CESU-UMSS, ASDI y Plural Editores*, 2011 </small> <br> 
                     <small>  </small> <br> 
           Grita la hinchada <br> 
                     <small> 2010. </small> <br>  
                     <small>  </small> <br> 
+          Encrucijadas: ensayos sobre democracia y reforma estatal en Bolivia <br> 
+                    <small> *CESU-UMSS*, 2007. </small> <br> 
+                    <small>  </small> <br>           
           Avatares: ensayos sobre política y sociedad en Bolivia <br> 
                     <small> *CESU-UMSS*, 2003. </small> <br> 
+                    <small>  </small> <br> 
+          Neopopulismo y democracia: compadres y padrinos en la política boliviana (1989-1999) <br> 
+                    <small> *CESU-UMSS y CEPLAG*, 2002. </small> <br> 
                     <small>  </small> <br> 
           "
 ---
