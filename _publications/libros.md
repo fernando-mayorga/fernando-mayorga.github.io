@@ -10,8 +10,9 @@ paperurl: ''
 citation: "
           El discurso del nacionalismo revolucionario en Bolivia y otros ensayos <br> 
                     <small> *Plural Editores*, 2024. </small> <br> 
-          Resistir y retornar <br> 
-                    <small> *Fundación Friedrich Ebert*, 2022. </small> <br> 
+                    <small>  </small> <br> 
+          Resistir y retornar: avatares del proceso decisional en el MAS-IPSP (2019-2021) <br> 
+                    <small> *Fundación Friedrich Ebert*, 2022. Links: </small> <br> 
           Mandato y contingencia: estilo de gobierno de Evo Morales <br> 
                     <small> *Fundación Friedrich Ebert y CLACSO*, 2020. </small> <br> 
           Antes y después del referendo: política y democracia en el Estado Plurinacional <br>
