@@ -25,7 +25,8 @@ citation: "
                     <small> *CESU-UMSS, ASDI y Plural Editores*, 2011 </small> <br> 
                     <small>  </small> <br> 
           Grita la hinchada <br> 
-                    <small> 2010. </small> <br>           
+                    <small> 2010. </small> <br>  
+                    <small>  </small> <br> 
           Avatares: ensayos sobre política y sociedad en Bolivia <br> 
                     <small> *CESU-UMSS*, 2003. </small> <br> 
                     <small>  </small> <br> 
