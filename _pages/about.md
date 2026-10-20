@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Director General a.i., Centro de Estudios Superiores Universitarios (CESU) <br>
-Catedrático, Carrera de Sociología  <br>
+Director General a.i. del Centro de Estudios Superiores Universitarios (CESU) <br>
+Catedrático de la Carrera de Sociología  <br>
 Universidad Mayor de San Simón  <br>
 <br>
 Estudio ciencia politica. 
