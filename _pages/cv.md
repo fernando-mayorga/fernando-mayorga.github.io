@@ -12,11 +12,11 @@ redirect_from:
 Educación
 ======
 * Doctorado en Ciencia Política, FLACSO-México, 2000
-* Licenciatura en Sociología, UNAM
+* Licenciatura en Sociología, UNAM, 1984
 
-Puestos académicos
+Empleo
 ======
-* 201X-Presente: Director
+* 2017-Presente: Director General
   * CESU, UMSS 
 
   
