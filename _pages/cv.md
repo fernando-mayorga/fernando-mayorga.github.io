@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+CV completo [aquí](https://docs.google.com/document/d/1jtSTOeCQ_mxSlDYIQmnzfpHZ2wnmVYSO/edit?usp=sharing&ouid=103389011030482928997&rtpof=true&sd=true). 
 
 Empleo actual
 ======
