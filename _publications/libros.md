@@ -18,6 +18,9 @@ citation: "
           El discurso del nacionalismo revolucionario en Bolivia y otros ensayos <br> 
                     <small> *Plural Editores*, 2024. </small> <br> 
                     <small>  </small> <br> 
+          Transiciones: ensayos sobre democracia en tiempos de crisis (2019-2020) <br> 
+                    <small> *Editorial AtaralaratA*, 2022. </small> <br> 
+                    <small>  </small> <br> 
           Mandato y contingencia: estilo de gobierno de Evo Morales <br> 
                     <small> *Friedrich Ebert Stiftung y CLACSO*, 2020. </small> <br> 
                     <small>  </small> <br> 
