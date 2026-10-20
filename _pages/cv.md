@@ -16,6 +16,6 @@ Educación
 
 Empleo
 ======
-* 2017-Presente: Director General a.i., *Centro de Estudios Superiores Universitarios (CESU), Universidad Mayor de San Simón  
+* 2017-Presente: Director General a.i., *Centro de Estudios Superiores Universitarios (CESU), Universidad Mayor de San Simón*  
 
   
