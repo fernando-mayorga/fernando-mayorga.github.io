@@ -7,5 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Cientista político. 
-Aurorista.
+Director General a.i., Centro de Estudios Superiores Universitarios (CESU)
+Catedrático, Carrera de Sociología
+Universidad Mayor de San Simón 
+
+Estudio ciencia politica. 
