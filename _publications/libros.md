@@ -24,7 +24,8 @@ citation: "
                     <small>  </small> <br> 
           Grita la hinchada. 2010. [Link](https://clubaurora40.blogspot.com/2022/01/libro-grita-la-hinchada-grita-la.html). <br> 
                     <small>  </small> <br>           
-          Avatares: Ensayos sobre política y sociedad en Bolivia. 2003.
+          Avatares: ensayos sobre política y sociedad en Bolivia. 2003.
+                    <small> *CESU-UMSS*, 2003. </small> <br> 
                     <small>  </small> <br> 
           "
 ---
