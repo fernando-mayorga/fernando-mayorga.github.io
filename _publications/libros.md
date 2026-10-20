@@ -8,7 +8,8 @@ date: 2025-01-13
 venue: 'American Journal of Agricultural Economics'
 paperurl: ''
 citation: "
-          El discurso del nacionalismo revolucionario en Bolivia y otros ensayos. 2024. <br> 
+          El discurso del nacionalismo revolucionario en Bolivia y otros ensayos. <br> 
+          <small> Plural Editores, 2024. </small> <br> 
           Resistir y retornar. 2022. [Link](https://collections.fes.de/publikationen/ident/fes/19716). <br> 
           Antes y después del referendo. 2019. <br> 
           Dilemas: Ensayos sobre democracia intercultural y Estado Plurinacional. 2011. <br> 
