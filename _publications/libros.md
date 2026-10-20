@@ -13,13 +13,19 @@ citation: "
                     <small>  </small> <br> 
           Resistir y retornar: avatares del proceso decisional en el MAS-IPSP (2019-2021) <br> 
                     <small> *Fundación Friedrich Ebert*, 2022. Links: </small> <br> 
+                    <small>  </small> <br> 
           Mandato y contingencia: estilo de gobierno de Evo Morales <br> 
                     <small> *Fundación Friedrich Ebert y CLACSO*, 2020. </small> <br> 
+                    <small>  </small> <br> 
           Antes y después del referendo: política y democracia en el Estado Plurinacional <br>
                     <small> *Fundación Friedrich Ebert*, 2019. </small> <br> 
+                    <small>  </small> <br> 
           Dilemas: Ensayos sobre democracia intercultural y Estado Plurinacional. 2011. <br> 
+                    <small>  </small> <br> 
           Grita la hinchada. 2010. [Link](https://clubaurora40.blogspot.com/2022/01/libro-grita-la-hinchada-grita-la.html). <br> 
+                    <small>  </small> <br>           
           Avatares: Ensayos sobre política y sociedad en Bolivia. 2003."
+                    <small>  </small> <br> 
 ---
 
 
