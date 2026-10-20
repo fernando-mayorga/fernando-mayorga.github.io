@@ -22,7 +22,8 @@ citation: "
                     <small> *Friedrich Ebert Stiftung*, 2019. </small> <br> 
                     <small>  </small> <br> 
           Dilemas: Ensayos sobre democracia intercultural y Estado Plurinacional <br> 
-                    <small> *CESU-UMSS, Asdi y Plural Editores*, 2011 </small> <br> 
+                    <small> *CESU-UMSS, ASDI y Plural Editores*, 2011 </small> <br> 
+                    <small>  </small> <br> 
           Grita la hinchada. 2010. [Link](https://clubaurora40.blogspot.com/2022/01/libro-grita-la-hinchada-grita-la.html). <br> 
                     <small>  </small> <br>           
           Avatares: ensayos sobre política y sociedad en Bolivia <br> 
