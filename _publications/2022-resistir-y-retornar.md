@@ -2,7 +2,7 @@
 title: ""
 collection: publications
 category: manuscripts
-permalink: /publication/2022-resistir-y-retornar
+permalink: /publication/libros
 excerpt: ''
 date: 2025-01-13
 venue: 'American Journal of Agricultural Economics'
