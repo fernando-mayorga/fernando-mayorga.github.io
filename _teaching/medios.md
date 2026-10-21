@@ -14,6 +14,10 @@ location: ""
 
 [El camino boliviano](https://www.pagina12.com.ar/diario/dialogos/21-239515-2014-02-10.html), Página 12, 10 de febrero, 2014.  
 
+## Artículos 
+
+[«Elecciones ya»: ¿el MAS recupera la iniciativa?](https://www.nuso.org/articulo/bolivia-de-la-pandemia-las-elecciones/), Nueva Sociedad, ed. junio 2020. 
+
 ## Podcasts
 ---
 [Democracia boliviana en perspectiva comparada](https://www.youtube.com/watch?v=fW87A5-67MU), Tras la líneas con Manuel Antonio Garretón, 17 de junio, 2025. 
