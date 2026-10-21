@@ -43,6 +43,7 @@ citation: "
                     <small>  </small> <br> 
           Antinomias: el azaroso camino de la reforma política en Bolivia <br> 
                     <small> *ASDI, DICyT y CESU-UMSS*, 2009. </small> <br> 
+                    <small>  [PDF](https://drive.google.com/file/d/17tgNvbqdnW3hUDMJfwOAlbSq_x90bjQ8/view?usp=sharing) </small> <br> 
                     <small>  </small> <br>   
           Encrucijadas: ensayos sobre democracia y reforma estatal en Bolivia <br> 
                     <small> *CESU-UMSS*, 2007. </small> <br> 
