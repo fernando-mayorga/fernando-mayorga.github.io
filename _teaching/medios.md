@@ -2,7 +2,6 @@
 title: ""
 collection: teaching
 type: ""
-permalink: 
 venue: ""
 date: 2026-10-21
 location: ""
