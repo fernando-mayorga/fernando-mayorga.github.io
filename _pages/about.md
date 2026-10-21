@@ -16,4 +16,5 @@ Estudio ciencia politica.
 ## Noticias
 <br>
 *20/10/2026*. [Conversación](https://www.youtube.com/watch?v=ZrLWShufjfU&t=3520s) con Luciana Jaúregui en *Hay junte* de CESU-UMSS: *El estilo de gobierno de Rodrigo Paz y sus efectos en la democracia*. <br>
+<small>  </small> <br> 
 *20/10/2026*. Visita mi nuevo canal de Youtube: [youtube.com/@fermayorgau](https://www.youtube.com/@fermayorgau). <br>
