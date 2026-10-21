@@ -3,8 +3,8 @@ title: ""
 collection: teaching
 type: "Entrevistas"
 permalink: ""
-venue: ""
-date: 2025-01-01
+venue: "Entrevistas"
+date: 2026-10-21
 location: ""
 ---
 
