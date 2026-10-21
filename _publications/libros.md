@@ -40,6 +40,7 @@ citation: "
                     <small>  </small> <br> 
           Grita la hinchada, grita la hinchada <br> 
                     <small> *Editorial Kipus*, 2010. </small> <br>  
+                    <small>  [PDF](https://drive.google.com/file/d/1JtCvzCQgy5n8A1pWJ1KzRyYVp3ZH0MtC/view?usp=sharing) </small> <br> 
                     <small>  </small> <br> 
           Antinomias: el azaroso camino de la reforma política en Bolivia <br> 
                     <small> *ASDI, DICyT y CESU-UMSS*, 2009. </small> <br> 
