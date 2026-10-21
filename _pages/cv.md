@@ -15,7 +15,7 @@ redirect_from:
 ---
 Desde 2017: Director General a.i., *Centro de Estudios Superiores Universitarios (CESU), Universidad Mayor de San Simón*.
 
-Desde 1984: Catedrático, *Carrera de Sociología, Facultad de Ciencias Sociales,
+Desde 1984: Catedrático, *Facultad de Ciencias Sociales,
 Universidad Mayor de San Simón*.
 
 ## Formación profesional
