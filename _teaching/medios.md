@@ -15,7 +15,7 @@ location: ""
 [El camino boliviano](https://www.pagina12.com.ar/diario/dialogos/21-239515-2014-02-10.html), Página 12, 10 de febrero, 2014.  
 
 ## Artículos 
-
+---
 ["Elecciones ya": ¿el MAS recupera la iniciativa?](https://www.nuso.org/articulo/bolivia-de-la-pandemia-las-elecciones/), Nueva Sociedad (junio 2020). 
 
 ## Podcasts
