@@ -16,7 +16,7 @@ location: ""
 
 ## Artículos 
 
-[«Elecciones ya»: ¿el MAS recupera la iniciativa?](https://www.nuso.org/articulo/bolivia-de-la-pandemia-las-elecciones/), Nueva Sociedad, ed. junio 2020. 
+["Elecciones ya": ¿el MAS recupera la iniciativa?](https://www.nuso.org/articulo/bolivia-de-la-pandemia-las-elecciones/), Nueva Sociedad (junio 2020). 
 
 ## Podcasts
 ---
