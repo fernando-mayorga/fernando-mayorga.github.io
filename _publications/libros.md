@@ -21,6 +21,7 @@ citation: "
                     <small>  </small> <br> 
           Transiciones: ensayos sobre democracia en tiempos de crisis (2019-2020) <br> 
                     <small> *Editorial AtaralaratA*, 2022. </small> <br> 
+                    <small>  [PDF](https://drive.google.com/file/d/1y-Tu7IcGvCuzTEm6_GMFbPKRYRotQ12t/view?usp=sharing) </small> <br>
                     <small>  </small> <br> 
           Mandato y contingencia: estilo de gobierno de Evo Morales <br> 
                     <small> *Friedrich Ebert Stiftung y CLACSO*, 2020. </small> <br> 
