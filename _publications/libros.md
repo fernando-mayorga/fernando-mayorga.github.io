@@ -65,10 +65,7 @@ citation: "
                     <small>  </small> <br>           
           El discurso del nacionalismo revolucionario <br> 
                     <small> *CIDRE*, 1985. </small> <br> 
-                    <small>  </small> <br> 
-
-
-                    
+                    <small>  </small> <br>     
           "
 ---
 
