@@ -9,14 +9,15 @@
 
 main:
 
-  - title: "Publicaciones"
-    url: /publications/  
-
   #- title: "Software"
   #  url: /teaching/    
 
   - title: "CV"
     url: /cv/
+    
+  - title: "Investigación"
+    url: /publications/ 
+    
 
   - title: "Fotos"
     url: /portfolio/
