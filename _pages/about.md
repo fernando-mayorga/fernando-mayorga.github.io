@@ -12,3 +12,6 @@ Catedrático de la [Facultad de Ciencias Sociales](https://www.facebook.com/Facu
 *Universidad Mayor de San Simón*  <br>
 <br>
 Estudio ciencia politica. 
+
+## Noticias
+*20/10/2026*: Visita mi nuevo [canal de Youtube](https://www.youtube.com/@fermayorgau).
