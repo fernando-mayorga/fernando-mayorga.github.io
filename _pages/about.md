@@ -19,4 +19,4 @@ Estudio ciencia politica.
 <small>  </small> <br> 
 *20/10/2026*. Visita mi nuevo canal de Youtube: [youtube.com/@fermayorgau](https://www.youtube.com/@fermayorgau). <br>
 <small>  </small> <br> 
-*20/8/2026*. [Conversación](https://www.youtube.com/watch?v=aSp133wHg2Y&t=30s) con Fernando Molina en *Hay junte* de CESU-UMSS <br>
+*20/8/2026*. [Conversación](https://www.youtube.com/watch?v=aSp133wHg2Y&t=30s) con Fernando Molina en *Hay junte* de CESU-UMSS <br>.
