@@ -1,9 +1,9 @@
 ---
 title: ""
 collection: teaching
-type: "Entrevistas"
+type: ""
 permalink: ""
-venue: "Entrevistas"
+venue: ""
 date: 2026-10-21
 location: ""
 ---
