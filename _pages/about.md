@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Director General a.i. del [Centro de Estudios Superiores Universitarios (CESU)](https://www.facebook.com/cesuumss/?locale=es_LA) <br>
-Catedrático de la [Facultad de Ciencias Sociales](https://www.facebook.com/FacultadDeCienciasSocialesUmss/)  <br>
-*Universidad Mayor de San Simón*  <br>
+#Director General a.i. del [Centro de Estudios Superiores Universitarios (CESU)](https://www.facebook.com/cesuumss/?locale=es_LA) <br>
+#Catedrático de la [Facultad de Ciencias Sociales](https://www.facebook.com/FacultadDeCienciasSocialesUmss/)  <br>
+#*Universidad Mayor de San Simón*  <br>
+#<br>
+Soy director de un centro de posgrado e investigación (CESU) y catedrático en Sociología en la Universidad Mayor de San Simón (UMSS) de Cochabamba, Bolivia. Mi ámbito de trabajo durante cuatro décadas fue -y sigue siendo- la universidad pública boliviana, aunque estudié Sociología en la Universidad Nacional Autónoma de México (UNAM) e hice un doctorado en Ciencia Política en la Facultad Latinoamericana de Ciencias Sociales (FLACSO/sede México).<br>
 <br>
-Soy director de un centro de posgrado e investigación (CESU) y catedrático en Sociología en la Universidad Mayor de San Simón (UMSS) de Cochabamba, Bolivia. Mi ámbito de trabajo durante cuatro décadas fue -y sigue siendo- la universidad pública boliviana, aunque estudié Sociología en la Universidad Nacional Autónoma de México (UNAM) e hice un doctorado en Ciencia Política en la Facultad Latinoamericana de Ciencias Sociales (FLACSO/sede México).
-<br><br>
 Me dedico al análisis político con una metodología ecléctica y tengo varios estudios sobre partidos y movimientos sociales en Bolivia que prestan atención a los cambios y continuidades en la democracia -intercultural- y el Estado -plurinacional.
 
 ## Actividad reciente
