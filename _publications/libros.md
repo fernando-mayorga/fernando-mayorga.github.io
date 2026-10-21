@@ -33,6 +33,7 @@ citation: "
                     <small>  </small> <br>           
           Dilemas: Ensayos sobre democracia intercultural y Estado Plurinacional <br> 
                     <small> *CESU-UMSS, ASDI y Plural Editores*, 2011 </small> <br> 
+                    <small>  [PDF](https://drive.google.com/file/d/1ZCu5yrw9GYNwpnf_EkXMMmrqLCoxfGqi/view?usp=share_link) </small> <br> 
                     <small>  </small> <br> 
           Grita la hinchada, grita la hinchada <br> 
                     <small> *Editorial Kipus*, 2010. </small> <br>  
