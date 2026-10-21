@@ -45,6 +45,7 @@ citation: "
                     <small>  </small> <br>           
           Avatares: ensayos sobre política y sociedad en Bolivia <br> 
                     <small> *CESU-UMSS*, 2003. </small> <br> 
+                    <small>  [PDF](https://drive.google.com/file/d/1t96aU6JO8Uuelh5kUVFgBeEGLcOkcUf_/view?usp=sharing) </small> <br> 
                     <small>  </small> <br> 
           Neopopulismo y democracia: compadres y padrinos en la política boliviana (1989-1999) <br> 
                     <small> *CESU-UMSS y CEPLAG*, 2002. </small> <br> 
