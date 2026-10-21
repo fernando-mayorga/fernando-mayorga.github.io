@@ -12,7 +12,7 @@ Catedrático de la [Facultad de Ciencias Sociales](https://www.facebook.com/Facu
 *Universidad Mayor de San Simón*  <br>
 <br>
 Soy catedrático en Sociología y director de un centro de posgrado e investigación
-(CESU) en la Universidad Mayor de San Simón (UMSS) de Cochabamba. Mi ámbito de
+(CESU) en la Universidad Mayor de San Simón (UMSS) de Cochabamba, Bolivia. Mi ámbito de
 trabajo durante cuatro décadas fue -y sigue siendo- la universidad pública boliviana,
 aunque estudié Sociología en la Universidad Nacional Autónoma de México (UNAM) e
 hice un doctorado en Ciencia Política en la Facultad Latinoamericana de Ciencias
