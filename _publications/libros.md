@@ -17,12 +17,15 @@ citation: "
                     <small>  </small> <br> 
           El discurso del nacionalismo revolucionario en Bolivia y otros ensayos <br> 
                     <small> *Plural Editores*, 2024. </small> <br> 
+                    <small>  [PDF](https://drive.google.com/file/d/1qJkTomKAVZkIF9Xi0uHftMPYsxuxkjw4/view?usp=sharing) </small> <br> 
+                    https://drive.google.com/file/d/1qJkTomKAVZkIF9Xi0uHftMPYsxuxkjw4/view?usp=sharing
                     <small>  </small> <br> 
           Transiciones: ensayos sobre democracia en tiempos de crisis (2019-2020) <br> 
                     <small> *Editorial AtaralaratA*, 2022. </small> <br> 
                     <small>  </small> <br> 
           Mandato y contingencia: estilo de gobierno de Evo Morales <br> 
                     <small> *Friedrich Ebert Stiftung y CLACSO*, 2020. </small> <br> 
+                    <small>  [PDF](https://drive.google.com/file/d/1b6GASRuq78GNMOzYTfkK3k0dPcaEhah-/view?usp=share_link) </small> <br> 
                     <small>  </small> <br> 
           Antes y después del referendo: política y democracia en el Estado Plurinacional <br>
                     <small> *Friedrich Ebert Stiftung*, 2019. </small> <br> 
@@ -30,6 +33,7 @@ citation: "
                     <small>  </small> <br> 
           Incertidumbres tácticas: ensayos sobre democracia, populismo y ciudadanía <br> 
                     <small> *PIEB, Ciudadanía y Plural Editores*, 2014. </small> <br> 
+                    <small>  [PDF](https://drive.google.com/file/d/1fiNHkXSi2nZpxWa7jpnqcASq7hp3NEqV/view?usp=share_link) </small> <br> 
                     <small>  </small> <br>           
           Dilemas: Ensayos sobre democracia intercultural y Estado Plurinacional <br> 
                     <small> *CESU-UMSS, ASDI y Plural Editores*, 2011 </small> <br> 
@@ -43,6 +47,7 @@ citation: "
                     <small>  </small> <br>   
           Encrucijadas: ensayos sobre democracia y reforma estatal en Bolivia <br> 
                     <small> *CESU-UMSS*, 2007. </small> <br> 
+                    <small>  [PDF](https://drive.google.com/file/d/1eLOnv6tRu28cmZamQOXT6a1PHIfPaXCy/view?usp=sharing) </small> <br> 
                     <small>  </small> <br>           
           Avatares: ensayos sobre política y sociedad en Bolivia <br> 
                     <small> *CESU-UMSS*, 2003. </small> <br> 
@@ -50,6 +55,7 @@ citation: "
                     <small>  </small> <br> 
           Neopopulismo y democracia: compadres y padrinos en la política boliviana (1989-1999) <br> 
                     <small> *CESU-UMSS y CEPLAG*, 2002. </small> <br> 
+                    <small>  [PDF](https://drive.google.com/file/d/1ZW4ug2bboecSkYoM7P3dVoOHkLMqsGrA/view?usp=sharing) </small> <br> 
                     <small>  </small> <br> 
           Discurso y política en Bolivia <br> 
                     <small> *ILDIS y CERES*, 1994. </small> <br> 
