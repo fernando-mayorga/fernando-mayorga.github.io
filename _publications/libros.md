@@ -18,7 +18,6 @@ citation: "
           El discurso del nacionalismo revolucionario en Bolivia y otros ensayos <br> 
                     <small> *Plural Editores*, 2024. </small> <br> 
                     <small>  [PDF](https://drive.google.com/file/d/1qJkTomKAVZkIF9Xi0uHftMPYsxuxkjw4/view?usp=sharing) </small> <br> 
-                    https://drive.google.com/file/d/1qJkTomKAVZkIF9Xi0uHftMPYsxuxkjw4/view?usp=sharing
                     <small>  </small> <br> 
           Transiciones: ensayos sobre democracia en tiempos de crisis (2019-2020) <br> 
                     <small> *Editorial AtaralaratA*, 2022. </small> <br> 
