@@ -26,6 +26,7 @@ citation: "
                     <small>  </small> <br> 
           Antes y después del referendo: política y democracia en el Estado Plurinacional <br>
                     <small> *Friedrich Ebert Stiftung*, 2019. </small> <br> 
+                    <small>  [PDF](https://drive.google.com/file/d/1b4-_r1muNja-kDTKHLkKXWO2kiYcaWPa/view?usp=sharing) </small> <br> 
                     <small>  </small> <br> 
           Incertidumbres tácticas: ensayos sobre democracia, populismo y ciudadanía <br> 
                     <small> *PIEB, Ciudadanía y Plural Editores*, 2014. </small> <br> 
