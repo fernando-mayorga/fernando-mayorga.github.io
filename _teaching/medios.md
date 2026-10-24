@@ -8,11 +8,11 @@ location: ""
 ---
 ## Podcasts
 ---
-[Democracia boliviana en perspectiva comparada](https://www.youtube.com/watch?v=fW87A5-67MU)
+[Democracia boliviana en perspectiva comparada](https://www.youtube.com/watch?v=fW87A5-67MU) <br> 
 <small> Tras la líneas con Manuel Antonio Garretón, 17 de junio de 2025. <\small>
 
 ## Entrevistas en video y mesas redondas
-[Diálogo: Condiciones y escenarios políticos para la reforma constitucional](https://www.youtube.com/watch?v=loV7m4AnISM) junto con Eduardo Rodriguez Veltzé, Farit Rojas Tudela y Luciana Jaúregui, 
+[Diálogo: Condiciones y escenarios políticos para la reforma constitucional](https://www.youtube.com/watch?v=loV7m4AnISM) junto con Eduardo Rodriguez Veltzé, Farit Rojas Tudela y Luciana Jaúregui <br> 
 <small> CESU-UMSS, 16 de octubre de 2026. <\small> <br> 
 
 ["El MAS se ha estido pero no se ha finado"](https://www.facebook.com/innoticiasbolivia/videos/el-mas-se-ha-estido-pero-no-se-ha-finado-fernando-mayorga-analiza-las-transforma/953753813918937/), IN Noticias, 30 de septiembre de 2026. <br> 
