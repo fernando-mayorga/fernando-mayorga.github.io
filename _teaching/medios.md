@@ -11,7 +11,7 @@ location: ""
 [Diálogo: Condiciones y escenarios políticos para la reforma constitucional](https://www.youtube.com/watch?v=loV7m4AnISM) junto con Eduardo Rodriguez Veltzé, Farit Rojas Tudela y Luciana Jaúregui, CESU-UMSS, 16 de octubre de 2026. <br> 
 <small>  </small> <br> 
 
-["El MAS se ha estido pero no se ha finado"](https://www.youtube.com/watch?v=sx9scPwz7mA](https://www.facebook.com/innoticiasbolivia/videos/el-mas-se-ha-estido-pero-no-se-ha-finado-fernando-mayorga-analiza-las-transforma/953753813918937/), IN Noticias, 30 de septiembre de 2026. <br> 
+["El MAS se ha estido pero no se ha finado"](https://www.facebook.com/innoticiasbolivia/videos/el-mas-se-ha-estido-pero-no-se-ha-finado-fernando-mayorga-analiza-las-transforma/953753813918937/), IN Noticias, 30 de septiembre de 2026. <br> 
 <small>  </small> <br> 
 
 ["Vivimos bajo la lógica de la judicialización de la política"](https://www.facebook.com/watch/?v=1105837185309650), IN Noticias, 30 de septiembre de 2026. <br> 
