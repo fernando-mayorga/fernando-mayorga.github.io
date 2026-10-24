@@ -16,7 +16,6 @@ Soy director de un centro de posgrado e investigación (CESU) y catedrático en 
 Me dedico al análisis político con una metodología ecléctica y tengo varios estudios sobre partidos y movimientos sociales en Bolivia que prestan atención a los cambios y continuidades en la democracia -intercultural- y el Estado -plurinacional.
 
 ## Actividad reciente
-<br>
 *20/10/2026*. [Conversación](https://www.youtube.com/watch?v=ZrLWShufjfU&t=3520s) con Luciana Jaúregui en *Hay junte* de CESU-UMSS: *El estilo de gobierno de Rodrigo Paz y sus efectos en la democracia*. <br>
 
 *20/10/2026*. Visita mi nuevo canal de Youtube: [youtube.com/@fermayorgau](https://www.youtube.com/@fermayorgau). <br> 
