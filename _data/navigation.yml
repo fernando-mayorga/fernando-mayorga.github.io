@@ -13,13 +13,13 @@ main:
     url: /cv/
     
   - title: "Investigación"
-    url: /publications/ 
+    url: /publicaciones/ 
     
   - title: "Medios"
-    url: /teaching/ 
+    url: /medios/ 
   
   - title: "Fotos"
-    url: /portfolio/
+    url: /fotos/
         
   # - title: "Blog"
   #  url: /year-archive/
