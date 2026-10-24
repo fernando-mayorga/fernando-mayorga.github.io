@@ -18,7 +18,6 @@ Me dedico al análisis político con una metodología ecléctica y tengo varios 
 ## Actividad reciente
 <br>
 *20/10/2026*. [Conversación](https://www.youtube.com/watch?v=ZrLWShufjfU&t=3520s) con Luciana Jaúregui en *Hay junte* de CESU-UMSS: *El estilo de gobierno de Rodrigo Paz y sus efectos en la democracia*. <br>
-<small>  </small> <br> 
 *20/10/2026*. Visita mi nuevo canal de Youtube: [youtube.com/@fermayorgau](https://www.youtube.com/@fermayorgau). <br>
 <small>  </small> <br> 
 *16/10/2026*: [Diálogo: Condiciones y escenarios políticos para la reforma constitucional](https://www.youtube.com/watch?v=loV7m4AnISM) junto con Eduardo Rodriguez Veltzé, Farit Rojas Tudela y Luciana Jaúregui en CESU-UMSS. <br> 
