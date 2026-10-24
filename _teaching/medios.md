@@ -12,6 +12,7 @@ location: ""
 <small> Tras la líneas con Manuel Antonio Garretón, 17 de junio de 2025. </small>
 
 ## Entrevistas en video y mesas redondas
+---
 [Diálogo: Condiciones y escenarios políticos para la reforma constitucional](https://www.youtube.com/watch?v=loV7m4AnISM) junto con Eduardo Rodriguez Veltzé, Farit Rojas Tudela y Luciana Jaúregui <br> 
 <small> CESU-UMSS, 16 de octubre de 2026. </small> <br> 
 
