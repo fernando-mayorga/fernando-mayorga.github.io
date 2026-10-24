@@ -41,3 +41,36 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Keep sidebar links visible on narrow screens */
+@media screen and (max-width: $large - 1px) {
+  .author__urls-wrapper {
+    display: block;
+
+    button {
+      display: none;
+    }
+  }
+
+  .author__urls {
+    display: flex !important;
+    flex-wrap: wrap;
+    gap: 0 1em;
+    position: static;
+    margin: 0.5em 0 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+    z-index: auto;
+
+    &:before,
+    &:after {
+      display: none;
+    }
+
+    a {
+      margin-bottom: 0;
+    }
+  }
+}
