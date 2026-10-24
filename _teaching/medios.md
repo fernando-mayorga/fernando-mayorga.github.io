@@ -44,7 +44,7 @@ Junto con Iván Iporre y Alicia Lissidini <br>
 <small> PNUD en Bolivia, 28 de junio de 2022. </small> <br> 
 
 [Manuel Castells en Bolivia](https://www.youtube.com/watch?v=sx9scPwz7mA) <br> 
-junto con Manuel Castells y José Luis Exeni <br> 
+Junto con Manuel Castells y José Luis Exeni <br> 
 <small> Esta casa no es hotel por ATB, 19 de marzo de 2018. </small> <br> 
 
 ## Entrevistas en la prensa 
