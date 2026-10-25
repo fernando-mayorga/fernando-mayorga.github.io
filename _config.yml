@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "es-US"
+locale                   : "es-ES"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Fernando Mayorga"
 title_separator          : "-"
