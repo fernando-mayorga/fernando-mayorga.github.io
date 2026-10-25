@@ -86,9 +86,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Libros'
+    title: 'Libros como autor'
   coauthored:
-    title: 'Libros en coautoría y coordinación'
+    title: 'Libros como coautor y/o coordinador'
   conferences:
     title: 'Capítulos en libros'
   journals:
