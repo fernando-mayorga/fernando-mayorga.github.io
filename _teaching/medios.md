@@ -14,7 +14,7 @@ location: ""
 ## Entrevistas en video y mesas redondas
 ---
 [Diálogo: Condiciones y escenarios políticos para la reforma constitucional](https://www.youtube.com/watch?v=loV7m4AnISM) <br> 
-Junto con Eduardo Rodriguez Veltzé, Farit Rojas Tudela y Luciana Jaúregui <br> 
+Con Eduardo Rodriguez Veltzé, Farit Rojas Tudela y Luciana Jaúregui <br> 
 <small> CESU-UMSS, 16 de octubre de 2026. </small> <br> 
 
 ["El MAS se ha estido pero no se ha finado"](https://www.facebook.com/innoticiasbolivia/videos/el-mas-se-ha-estido-pero-no-se-ha-finado-fernando-mayorga-analiza-las-transforma/953753813918937/) <br> 
@@ -37,14 +37,14 @@ Con comentarios de Daniela Elías y Gabriela Gonzáles Ortuño <br>
 <small> La Razón Plus, 13 de septiembre de 2024. </small> <br>  
 
 [Presentación de libro: "Los diversos rostros de la democracia en América Latina"](https://www.youtube.com/watch?v=aPkmc-fKTNU) <br> 
-Junto con Iván Iporre y Alicia Lissidini <br> 
+Con Iván Iporre y Alicia Lissidini <br> 
 <small> CESU-UMSS y EGPP, 12 de julio de 2024. </small> <br> 
 
 [Democracia y gobernanza](https://www.youtube.com/watch?v=rclIz7V4qSs) <br> 
 <small> PNUD en Bolivia, 28 de junio de 2022. </small> <br> 
 
 [Manuel Castells en Bolivia](https://www.youtube.com/watch?v=sx9scPwz7mA) <br> 
-Junto con Manuel Castells y José Luis Exeni <br> 
+Con Manuel Castells y José Luis Exeni <br> 
 <small> Esta casa no es hotel por ATB, 19 de marzo de 2018. </small> <br> 
 
 ## Entrevistas en la prensa 
