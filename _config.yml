@@ -24,7 +24,7 @@ repository               : "fernando-mayorga/fernando-mayorga.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "foto FM RTP 2023.jpg"
+  avatar           : "foto-fm-2023.jpg"
   name             : "Fernando Mayorga"
   pronouns         : ""
   bio              : "Cientista político"
