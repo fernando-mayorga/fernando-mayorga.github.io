@@ -9,10 +9,10 @@ venue: ''
 paperurl: ''
 citation: "
           El MAS se ha estido: mutaciones en la política y la democracia en Bolivia 2020-2025 <br> 
-                    <small> *Friedrich Ebert Stiftung*, La Paz, 2026. </small> <br> 
+                    <small> *Fundación Friedrich Ebert*, La Paz, 2026. </small> <br> 
                     <small>  </small> <br> 
           Resistir y retornar: avatares del proceso decisional en el MAS-IPSP (2019-2021) <br> 
-                    <small> *Friedrich Ebert Stiftung*, La Paz, 2025. Segunda edición. </small> <br> 
+                    <small> *Fundación Friedrich Ebert*, La Paz, 2025. Segunda edición. </small> <br> 
                     <small> [PDF](https://collections.fes.de/publikationen/ident/fes/19716) (Biblioteca FES) </small> <br> 
                     <small>  </small> <br> 
           El discurso del nacionalismo revolucionario en Bolivia y otros ensayos <br> 
@@ -24,10 +24,10 @@ citation: "
                     <small> [PDF](https://drive.google.com/file/d/1y-Tu7IcGvCuzTEm6_GMFbPKRYRotQ12t/view?usp=sharing) </small> <br> 
                     <small>  </small> <br> 
           Resistir y retornar: avatares del proceso decisional en el MAS-IPSP (2019-2021) <br> 
-                    <small> *Friedrich Ebert Stiftung*, La Paz, 2022. Primera edición. </small> <br> 
+                    <small> *Fundación Friedrich Ebert*, La Paz, 2022. Primera edición. </small> <br> 
                     <small>  </small> <br> 
           Mandato y contingencia: estilo de gobierno de Evo Morales <br> 
-                    <small> *Friedrich Ebert Stiftung y CLACSO*, Buenos Aires, 2020. Segunda edición, formato digital. </small> <br> 
+                    <small> *Fundación Friedrich Ebert y CLACSO*, Buenos Aires, 2020. Segunda edición, formato digital. </small> <br> 
                     <small> [PDF](https://drive.google.com/file/d/1b6GASRuq78GNMOzYTfkK3k0dPcaEhah-/view?usp=share_link) </small> <br> 
                     <small>  </small> <br> 
           Antes y después del referendo: política y democracia en el Estado Plurinacional <br> 
@@ -35,7 +35,7 @@ citation: "
                     <small> [PDF](https://drive.google.com/file/d/1b4-_r1muNja-kDTKHLkKXWO2kiYcaWPa/view?usp=sharing) </small> <br> 
                     <small>  </small> <br> 
           Mandato y contingencia: estilo de gobierno de Evo Morales <br> 
-                    <small> *Friedrich Ebert Stiftung*, La Paz, 2019. Primera edición. </small> <br> 
+                    <small> *Fundación Friedrich Ebert*, La Paz, 2019. Primera edición. </small> <br> 
                     <small>  </small> <br> 
           Incertidumbres tácticas: ensayos sobre democracia, populismo y ciudadanía <br> 
                     <small> *PIEB, Ciudadanía y Plural Editores*, La Paz, 2014. </small> <br> 
