@@ -1,5 +1,5 @@
 ---
-title: "Entrevistas en video y mesas redondas"
+title: "Videos de entrevistas y mesas redondas"
 collection: teaching
 order: 2
 ---
