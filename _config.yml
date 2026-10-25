@@ -85,12 +85,16 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Ensayos'
   manuscripts:
-    title: 'Libros'    
+    title: 'Libros'
+  coauthored:
+    title: 'Libros en coautoría y coordinación'
   conferences:
     title: 'Capítulos en libros'
+  journals:
+    title: 'Artículos en revistas'
+  prologues:
+    title: 'Prólogos y estudios introductorios'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
