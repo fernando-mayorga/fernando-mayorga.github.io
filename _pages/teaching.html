@@ -13,5 +13,8 @@ author_profile: true
 
 {% assign items = site.teaching | sort: "order", "last" %}
 {% for post in items %}
-  {{ post.content }}
+  <details class="pub-group">
+    <summary>{{ post.title }}</summary>
+    {{ post.content }}
+  </details>
 {% endfor %}
