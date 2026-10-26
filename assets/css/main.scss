@@ -137,3 +137,8 @@
 .archive__item:hover .archive__item-title {
   text-decoration: none;
 }
+
+/* Darker, more readable link color */
+:root {
+  --global-link-color: #1a5fb4;
+}
