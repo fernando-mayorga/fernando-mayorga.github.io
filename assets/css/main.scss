@@ -122,3 +122,18 @@
     margin-top: 0;
   }
 }
+
+/* Links: no underline, underline on hover */
+.archive a,
+.page__content a {
+  text-decoration: none;
+
+  &:hover,
+  &:focus-visible {
+    text-decoration: underline;
+  }
+}
+
+.archive__item:hover .archive__item-title {
+  text-decoration: none;
+}
