@@ -26,7 +26,7 @@ citation: "
           Lo viejo y lo nuevo del progresismo. Representación política, modalidades organizativas y estrategias discursivas <br> 
                     <small> En *Tomar partido: trayectos, aprendizajes y desafíos para los partidos progresistas en América Latina y el Caribe*, René Ramírez (coord.), CLACSO, Buenos Aires, 2023. </small> <br> 
                     <small>  </small> <br> 
-          Nuevo espacio político en Bolivia. Entre lo nacional popular y lo oligárquico liberal <br> 
+          [Nuevo espacio político en Bolivia. Entre lo nacional popular y lo oligárquico liberal](https://www.jstor.org/content/oa_chapter_edited/j.ctv2v88c77.7?seq=1) <br> 
                     <small> En *(Re)configuración del campo político en Bolivia. Balance y horizontes del ciclo electoral 2020-2021*, Jan Souverein y José Luis Exeni Rodríguez (coords.), Fundación Friedrich Ebert, La Paz, 2022. </small> <br> 
                     <small>  </small> <br> 
           Nuevo espacio político en Bolivia. Entre lo nacional popular y lo oligárquico liberal <br> 
