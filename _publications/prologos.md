@@ -11,6 +11,9 @@ citation: "
           Prólogo a *La caída de Evo Morales, la reacción mestiza y el ascenso de la gente bien al poder* <br> 
                     <small> De Lorgio Orellana, *Asdi y UMSS*, Cochabamba, 2020. </small> <br> 
                     <small>  </small> <br> 
+          *De la revolución a la democracia: Estado, representación y participación* <br> 
+                    <small> Estudio introductorio a *Antología de ciencia política boliviana*, antologador, Biblioteca del Bicentenario de Bolivia y Centro de Investigaciones Sociales (CIS), La Paz, 2019.
+                    <small>  </small> <br> 
           Carlos Montenegro, escritor y protagonista de una época de transformaciones <br> 
                     <small> Estudio introductorio a *Nacionalismo y coloniaje*, de Carlos Montenegro, Biblioteca del Bicentenario de Bolivia (BBB) y Centro de Investigaciones Sociales (CIS), La Paz, 2016. </small> <br> 
                     <small>  </small> <br> 
