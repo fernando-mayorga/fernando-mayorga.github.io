@@ -88,7 +88,7 @@ publication_category:
   manuscripts:
     title: 'Libros como autor'
   coauthored:
-    title: 'Libros como coautor y/o coordinador'
+    title: 'Libros como coautor, compilador y/o coordinador'
   conferences:
     title: 'Capítulos en libros'
   journals:
