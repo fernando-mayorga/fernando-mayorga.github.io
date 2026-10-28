@@ -1,5 +1,5 @@
 ---
-title: "Entrevistas en revistas o la prensa"
+title: "Entrevistas en prensa o revistas"
 collection: teaching
 order: 3
 ---
