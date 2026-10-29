@@ -13,7 +13,7 @@ Archivo en actualización: se irán incorporando las columnas publicadas desde 2
 <summary>2020–2024</summary>
 
 [Filipo en la memoria](https://hemeroteca.larazon.bo/voces/2024/06/02/filipo-en-la-memoria/) <br>
-<small> *La Razón*, La Paz, 2 de junio de 2024. </small> [PDF](/files/columnas_2024-06-02_filipo-en-la-memoria.pdf)
+<small> *La Razón*, La Paz, 2 de junio de 2024. [PDF](/files/columnas_2024-06-02_filipo-en-la-memoria.pdf) </small> 
 
 [De la política, su judicialización](https://hemeroteca.larazon.bo/voces/2024/05/05/de-la-politica-su-judicializacion/) <br>
 <small> *La Razón*, La Paz, 5 de mayo de 2024. </small>
