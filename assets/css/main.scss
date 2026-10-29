@@ -200,16 +200,19 @@
 
   > p {
     position: relative;
-    margin: 0 0 0.8em 8em;        /* was 5.75em */
+    margin: 0 0 0.8em 8em;
+    line-height: 1.5;
+    animation: year-in 0.3s ease;
+  }
 
   /* first column sits on the same line as the year */
   > summary + p {
     margin-top: -2.2em;
   }
 
-    @media (max-width: 600px) {
+  @media (max-width: 600px) {
     > p {
-      margin-left: 7.25em;        /* was 5em */
+      margin-left: 7.25em;
     }
   }
 }
