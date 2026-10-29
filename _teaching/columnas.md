@@ -4,16 +4,13 @@ collection: teaching
 order: 5
 ---
 
-<!-- Un panel por quinquenio (2020–2024, 2015–2019, 2010–2014); dentro, un encabezado por año (**2024**).
-     Para agregar una columna: copia una entrada (las dos líneas) bajo su año y deja una línea en blanco entre entradas.
-     Para un año nuevo: agrega su encabezado **AAAA** en orden dentro de su quinquenio. -->
+<!-- Un panel por quinquenio (2020–2024, 2015–2019, 2010–2014).
+     Para agregar una columna: copia una entrada (las dos líneas) en su lugar por fecha y deja una línea en blanco entre entradas. -->
 
 *Archivo en actualización: se irán incorporando las columnas publicadas desde 2000.*
 
-<details markdown="1">
-<summary><strong>2020–2024</strong></summary>
-
-**2024**
+<details class="sub-group" markdown="1">
+<summary>2020–2024</summary>
 
 [Filipo en la memoria](https://hemeroteca.larazon.bo/voces/2024/06/02/filipo-en-la-memoria/) <br>
 <small> *La Razón*, La Paz, 2 de junio de 2024. </small>
@@ -32,8 +29,6 @@ order: 5
 
 [¿Cómo se dice Milei en boliviano?](https://www.eldiarioar.com/opinion/dice-milei-boliviano_129_10868339.html) <br>
 <small> *El Diario AR*, Buenos Aires, 25 de enero de 2024. </small>
-
-**2023**
 
 [Un Milei boliviano](https://hemeroteca.larazon.bo/voces/2023/12/31/un-milei-boliviano/) <br>
 <small> *La Razón*, La Paz, 31 de diciembre de 2023. </small>
@@ -65,8 +60,6 @@ order: 5
 [Anacronismo y superposición](https://hemeroteca.larazon.bo/voces/2023/01/15/anacronismo-y-superposicion/) <br>
 <small> *La Razón*, La Paz, 15 de enero de 2023. </small>
 
-**2022**
-
 [La venganza será terrible](https://hemeroteca.larazon.bo/lr-article/2022/12/04/la-venganza-sera-terrible/) <br>
 <small> *La Razón*, La Paz, 4 de diciembre de 2022. </small>
 
@@ -94,8 +87,6 @@ order: 5
 [En movimiento](https://hemeroteca.larazon.bo/voces/2022/01/02/en-movimiento/) <br>
 <small> *La Razón*, La Paz, 2 de enero de 2022. </small>
 
-**2021**
-
 [Noviembre y después](https://hemeroteca.larazon.bo/voces/2021/11/21/noviembre-y-despues/) <br>
 <small> *La Razón*, La Paz, 21 de noviembre de 2021. </small>
 
@@ -119,8 +110,6 @@ order: 5
 
 [Desafíos e incentivos](https://hemeroteca.larazon.bo/voces/2021/01/03/desafios-e-incentivos/) <br>
 <small> *La Razón*, La Paz, 3 de enero de 2021. </small>
-
-**2020**
 
 [Ciclo electoral](https://hemeroteca.larazon.bo/voces/2020/12/06/ciclo-electoral/) <br>
 <small> *La Razón*, La Paz, 6 de diciembre de 2020. </small>
@@ -160,10 +149,8 @@ order: 5
 
 </details>
 
-<details markdown="1">
-<summary><strong>2015–2019</strong></summary>
-
-**2019**
+<details class="sub-group" markdown="1">
+<summary>2015–2019</summary>
 
 [Golpe y decreto](https://hemeroteca.larazon.bo/voces/2019/11/24/golpe-y-decreto/) <br>
 <small> *La Razón*, La Paz, 24 de noviembre de 2019. </small>
@@ -192,8 +179,6 @@ order: 5
 [La oposición en sus avatares](https://hemeroteca.larazon.bo/voces/2019/01/06/la-oposicion-en-sus-avatares/) <br>
 <small> *La Razón*, La Paz, 6 de enero de 2019. </small>
 
-**2018**
-
 [Crisis, perplejidad e incertidumbre](https://hemeroteca.larazon.bo/voces/2018/12/09/crisis-perplejidad-e-incertidumbre/) <br>
 <small> *La Razón*, La Paz, 9 de diciembre de 2018. </small>
 
@@ -215,8 +200,6 @@ order: 5
 [Luto y disputa](https://hemeroteca.larazon.bo/voces/2018/02/18/luto-y-disputa/) <br>
 <small> *La Razón*, La Paz, 18 de febrero de 2018. </small>
 
-**2017**
-
 [La identidad cochala](https://hemeroteca.larazon.bo/voces/2017/10/01/la-identidad-cochala/) <br>
 <small> *La Razón*, La Paz, 1 de octubre de 2017. </small>
 
@@ -231,8 +214,6 @@ order: 5
 
 [Que te vaya como mereces](https://hemeroteca.larazon.bo/voces/2017/01/08/que-te-vaya-como-mereces/) <br>
 <small> *La Razón*, La Paz, 8 de enero de 2017. </small>
-
-**2016**
 
 [En diciembre, John Lennon](https://hemeroteca.larazon.bo/voces/2016/12/11/en-diciembre-john-lennon/) <br>
 <small> *La Razón*, La Paz, 11 de diciembre de 2016. </small>
@@ -276,8 +257,6 @@ order: 5
 [De Buenos Aires a Caracas sin escalas](https://hemeroteca.larazon.bo/voces/2016/01/17/de-buenos-aires-a-caracas-sin-escalas/) <br>
 <small> *La Razón*, La Paz, 17 de enero de 2016. </small>
 
-**2015**
-
 [Fin de ciclo](https://hemeroteca.larazon.bo/voces/2015/12/20/fin-de-ciclo-3/) <br>
 <small> *La Razón*, La Paz, 20 de diciembre de 2015. </small>
 
@@ -310,10 +289,8 @@ order: 5
 
 </details>
 
-<details markdown="1">
-<summary><strong>2010–2014</strong></summary>
-
-**2014**
+<details class="sub-group" markdown="1">
+<summary>2010–2014</summary>
 
 [El MAS, la izquierda en el centro](https://hemeroteca.larazon.bo/politico/2014/11/23/el-mas-la-izquierda-en-el-centro/) <br>
 <small> *La Razón*, La Paz, 23 de noviembre de 2014. </small>
@@ -363,8 +340,6 @@ order: 5
 [Difícil y decisivo](https://hemeroteca.larazon.bo/voces/2014/01/05/dificil-y-decisivo/) <br>
 <small> *La Razón*, La Paz, 5 de enero de 2014. </small>
 
-**2013**
-
 [Espejos y reflejos](https://hemeroteca.larazon.bo/voces/2013/12/22/espejos-y-reflejos/) <br>
 <small> *La Razón*, La Paz, 22 de diciembre de 2013. </small>
 
@@ -403,8 +378,6 @@ order: 5
 
 [Recuento de daños](https://hemeroteca.larazon.bo/voces/2013/01/06/recuento-de-danos-2/) <br>
 <small> *La Razón*, La Paz, 6 de enero de 2013. </small>
-
-**2012**
 
 [Chávez y Diógenes](https://hemeroteca.larazon.bo/voces/2012/12/23/chavez-y-diogenes/) <br>
 <small> *La Razón*, La Paz, 23 de diciembre de 2012. </small>
