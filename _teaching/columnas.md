@@ -24,6 +24,9 @@ order: 5
 [Alasitas plurinacional](https://hemeroteca.larazon.bo/voces/2024/01/28/alasitas-plurinacional/) <br>
 <small> *La Razón*, 28 de enero de 2024. </small>
 
+[¿Cómo se dice Milei en boliviano?](https://www.eldiarioar.com/opinion/dice-milei-boliviano_129_10868339.html) <br>
+<small> *El Diario AR*, 25 de enero de 2024. </small>
+
 </details>
 
 <details class="sub-group" markdown="1">
