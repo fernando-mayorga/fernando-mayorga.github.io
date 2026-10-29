@@ -7,7 +7,7 @@ order: 5
 <!-- Un panel por quinquenio (2020–2024, 2015–2019, 2010–2014).
      Para agregar una columna: copia una entrada (las dos líneas) en su lugar por fecha y deja una línea en blanco entre entradas. -->
 
-*Archivo en actualización: se irán incorporando las columnas publicadas desde 2000.*
+Archivo en actualización: se irán incorporando las columnas publicadas desde 2000.
 
 <details class="sub-group" markdown="1">
 <summary>2020–2024</summary>
