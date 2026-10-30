@@ -23,8 +23,8 @@ citation: "
                     <small>  </small> <br> 
           [Resistir y retornar: avatares del proceso decisional en el MAS-IPSP (2019-2021)](/files/libros/Resistir%20y%20retornar.pdf) <br> 
                     <small> *Fundación Friedrich Ebert*, La Paz, 2022. Primera edición. </small> <br> 
-                    <small> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=hEGzUAQAAAAJ&cstart=20&pagesize=80&citation_for_view=hEGzUAQAAAAJ:MXK_kJrjxJIC), <small> [Biblioteca FES](https://collections.fes.de/publikationen/ident/fes/19716) </small> <br>  </small> <br> 
-                    <small>  </small> <br> 
+                    <small> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=hEGzUAQAAAAJ&cstart=20&pagesize=80&citation_for_view=hEGzUAQAAAAJ:MXK_kJrjxJIC), [Biblioteca FES](https://collections.fes.de/publikationen/ident/fes/19716)  </small> <br> 
+
           [Mandato y contingencia: estilo de gobierno de Evo Morales](/files/libros/Mandato%20y%20contingencia%202da%20edicio%CC%81n.pdf) <br> 
                     <small> *Fundación Friedrich Ebert y CLACSO*, Buenos Aires, 2020. Segunda edición, formato digital. </small> <br> 
                     <small> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=hEGzUAQAAAAJ&citation_for_view=hEGzUAQAAAAJ:ldfaerwXgEUC) </small> <br> 
