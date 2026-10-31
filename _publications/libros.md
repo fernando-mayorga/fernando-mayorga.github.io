@@ -11,7 +11,7 @@ citation: "
           El MAS se ha estido: mutaciones en la política y la democracia en Bolivia 2020-2025 <br> 
                     <small> *Fundación Friedrich Ebert*, La Paz, 2026. </small> <br> 
                     <small>  </small> <br> 
-          [Resistir y retornar: avatares del proceso decisional en el MAS-IPSP (2019-2021)](/files/libros/Resistir%20y%20retornar%202da.%20edición.pdf) <br> 
+          [Resistir y retornar: avatares del proceso decisional en el MAS-IPSP (2019-2021)](/files/libros/Resistir%20y%20retornar%202da.%20edicio%CC%81n.pdf) <br> 
                     <small> *Fundación Friedrich Ebert*, La Paz, 2025. Segunda edición. </small> <br>
                     <small>  </small> <br> 
           [El discurso del nacionalismo revolucionario en Bolivia y otros ensayos](/files/libros/El%20discurso%20del%20nacionalismo%20revolucionario%20y%20oros%20ensayos.pdf) <br> 
@@ -37,7 +37,7 @@ citation: "
                     <small> *Fundación Friedrich Ebert*, La Paz, 2019. Primera edición. </small> <br> 
                     <small> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=hEGzUAQAAAAJ&cstart=20&pagesize=80&citation_for_view=hEGzUAQAAAAJ:M05iB0D1s5AC) </small> <br> 
                     <small>  </small> <br> 
-          [Incertidumbres tácticas: ensayos sobre democracia, populismo y ciudadanía](/files/libros/Incertidumbres%20ta%CC%81cticas.%20Ensayos%20sobre%20democracia%2C%20ciudadani%CC%81a%20y%20populismo.pdf) <br> 
+          [Incertidumbres tácticas: ensayos sobre democracia, populismo y ciudadanía](/files/libros/Incertidumbres%20tacticas.%20Ensayos%20sobre%20democracia%2C%20ciudadani%CC%81a%20y%20populismo.pdf) <br> 
                     <small> *PIEB, Ciudadanía y Plural Editores*, La Paz, 2014. </small> <br> 
                     <small> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=hEGzUAQAAAAJ&citation_for_view=hEGzUAQAAAAJ:W7OEmFMy1HYC) </small> <br> 
                     <small>  </small> <br> 
@@ -56,7 +56,7 @@ citation: "
                     <small> *Gente Común*, La Paz, 2007. </small> <br> 
                     <small> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=hEGzUAQAAAAJ&citation_for_view=hEGzUAQAAAAJ:BqipwSGYUEgC) </small> <br> 
                     <small>  </small> <br> 
-          [Avatares: ensayos sobre política y sociedad en Bolivia](/files/libros/AVATARES.%20Ensayos%20sobre%20poli%CC%81tica%20y%20sociedad%20en%20Bolivia.pdf) <br> 
+          [Avatares: ensayos sobre política y sociedad en Bolivia](/files/libros/AVATARES.%20Ensayos%20sobre%20politica%20y%20sociedad%20en%20Bolivia.pdf) <br> 
                     <small> *CESU-UMSS*, Cochabamba, 2003. </small> <br> 
                     <small> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=hEGzUAQAAAAJ&cstart=20&pagesize=80&citation_for_view=hEGzUAQAAAAJ:0EnyYjriUFMC) </small> <br> 
                     <small>  </small> <br> 
@@ -64,7 +64,7 @@ citation: "
                     <small> *Plural Editores*, La Paz, 2002. </small> <br> 
                     <small> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=hEGzUAQAAAAJ&citation_for_view=hEGzUAQAAAAJ:NMxIlDl6LWMC) </small> <br> 
                     <small>  </small> <br> 
-          Discurso y política en Bolivia <br> 
+          [Discurso y política en Bolivia](/files/libros/DISCURSO%20Y%20POLITICA%20EN%20BOLIVIA.pdf) <br> 
                     <small> *ILDIS y CERES*, La Paz, 1994. </small> <br> 
                     <small> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=hEGzUAQAAAAJ&citation_for_view=hEGzUAQAAAAJ:_Qo2XoVZTnwC) </small> <br> 
                     <small>  </small> <br> 
@@ -72,7 +72,7 @@ citation: "
                     <small> *ILDIS y UMSS*, La Paz, 1991. </small> <br> 
                     <small> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=hEGzUAQAAAAJ&citation_for_view=hEGzUAQAAAAJ:-f6ydRqryjwC) </small> <br> 
                     <small>  </small> <br> 
-          El discurso del nacionalismo revolucionario <br> 
+          [El discurso del nacionalismo revolucionario](/files/libros/EL%20DISCURSO%20DEL%20NACIONALISMO%20REVOLUCIONARIO%20%28PortadaNegra%29.pdf) <br> 
                     <small> *CIDRE*, Cochabamba, 1985. </small> <br> 
                     <small> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=hEGzUAQAAAAJ&citation_for_view=hEGzUAQAAAAJ:3s1wT3WcHBgC) </small> <br> 
                     <small>  </small> <br> 
