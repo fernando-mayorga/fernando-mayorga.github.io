@@ -64,7 +64,7 @@ citation: "
                     <small> *PIEB*, La Paz, 1997. </small> <br> 
                     <small> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=hEGzUAQAAAAJ&cstart=20&pagesize=80&citation_for_view=hEGzUAQAAAAJ:qUcmZB5y_30C) </small> <br> 
                     <small>  </small> <br> 
-          Jinapuni. Testimonio de un dirigente campesino <br> 
+          [Jinapuni. Testimonio de un dirigente campesino](/files/libros/JINAPUNI.%20Enrique%20Encinas.%20Testimonio%20de%20un%20dirigente%20campesino.pdf) <br> 
                     <small> *HISBOL*, La Paz, 1989. </small> <br> 
                     <small> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=hEGzUAQAAAAJ&cstart=20&pagesize=80&citation_for_view=hEGzUAQAAAAJ:maZDTaKrznsC) </small> <br> 
                     <small>  </small> <br> 
