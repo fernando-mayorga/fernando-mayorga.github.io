@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+ad# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -29,7 +29,7 @@ author:
   pronouns         : ""
   bio              : "Sociológo y cientista político"
   location         : "Cochabamba, Bolivia"
-  employer         : "CESU-UMSS"
+  employer         : "Universidad Mayor de San Simón"
   uri              : ""
   email            : "fermayorgau@gmail.com" 
 
