@@ -7,7 +7,25 @@ order: 5
 <!-- Un panel por quinquenio (2020–2024, 2015–2019, 2010–2014).
      Para agregar una columna: copia una entrada (las dos líneas) en su lugar por fecha y deja una línea en blanco entre entradas. -->
 
-Archivo en actualización: se irán incorporando las columnas publicadas desde 2000.
+En los años 90 del siglo XX empecé a escribir una columna en el diario La
+Razón, con sede en La Paz. Su nombre era Máscaras y espejos y Bolivia estaba
+clasificada al Mundial USA 94. Era una columna quincenal, pero desistía de
+publicarla cuando no tenía nada qué decir o mi texto era insulso. Dejé de
+hacerlo a mediados de 2024 -no importan los motivos- y desapareció, sin pena
+ni gloria, después de tres décadas de dedicación casi exclusiva --tuvo una breve
+estancia en *Página 7*, un desliz que nunca consigno en mi biografía-- porque ese
+período también colaboré en los suplementos *Tiempo Político* y *Ventana*.
+Empero, como soy ecléctico, también escribía con similar entusiasmo en los
+semanarios *Pulso*, *El juguete rabioso* y *Nueva crónica y buen gobierno*. Desde
+2005, cuando Bolivia se convirtió en un foco de atención mundial con la
+primera victoria electoral de Evo Morales, fui invitado por diversos medios
+extranjeros, sobre todo argentinos, para escribir o dar entrevistas --*Página 12*,
+*Clarín*, *elDiarioAR* y la sensacional revista *Anfibia*--. Pese al desorden de mis
+“archivos” y gracias a mi método paranoico-crítico logré ordenar algunas cosas
+para que mi producción seudo-periodística esté a disposición de lectores/as
+curiosos/as.
+
+*Archivo en actualización: se irán incorporando las columnas publicadas desde 2000.*
 
 <details class="sub-group" markdown="1">
 <summary>2020–2024</summary>
