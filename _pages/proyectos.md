@@ -25,21 +25,21 @@ author_profile: true
     <img src="/images/quimera/quimera-1.jpg" alt="Portada de Quimera número 1" loading="lazy">
     <span class="zine__num">Nº 1</span>
     <span class="zine__fecha">Septiembre de 1985</span>
-    <span class="zine__info">René Zavaleta, Luis H. Antezana, Javier Medina, Jorge Komadina; entrevista a Silvia Rivera.</span>
+    <span class="zine__info">René Zavaleta, Raúl Barrios, Luis H. Antezana, Jorge Komadina, Javier Medina, Andrés Uzeda, Mauricio Bayro, Pedro Cueto, Juan Perelman, Fernando Mayorga, Pedro Cueto; entrevista a Silvia Rivera.</span>
   </a>
 
   <a class="zine" href="/files/quimera/quimera%202.pdf">
     <img src="/images/quimera/quimera-2.jpg" alt="Portada de Quimera número 2" loading="lazy">
     <span class="zine__num">Nº 2</span>
     <span class="zine__fecha">Enero de 1986</span>
-    <span class="zine__info">René Zavaleta, Eduardo Galeano, Gustavo Soto, Jorge Zabala, Eduardo López, Homero Carvalho.</span>
+    <span class="zine__info">René Zavaleta, René Antezana, Aldo Pellegrini, Gustavo Soto, Gustavo Soto, Jorge Zabala, Eduardo Galeano, Eduardo López, Homero Carvalho.</span>
   </a>
 
   <a class="zine" href="/files/quimera/quimera%203.pdf">
     <img src="/images/quimera/quimera-3.jpg" alt="Portada de Quimera número 3" loading="lazy">
     <span class="zine__num">Nº 3</span>
     <span class="zine__fecha">Septiembre de 1987</span>
-    <span class="zine__info">Luis H. Antezana, Javier Medina, Ramón Rocha Monroy, Jorge Zabala; ilustraciones de Franz Kafka.</span>
+    <span class="zine__info">Luis H. Antezana, Javier Medina, Ramón Rocha Monroy, Jorge Zabala, Igor Quiroga, Cesar Soto, E. M. Cioran, José Bayro.</span>
   </a>
 
 </div>
