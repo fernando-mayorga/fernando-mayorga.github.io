@@ -17,9 +17,14 @@ main:
     
   - title: "Presencia en medios"
     url: /medios/ 
+
+     - title: "Otros proyectos"
+    url: /proyectos/
   
   - title: "Fotos"
     url: /fotos/
+
+     
         
   # - title: "Blog"
   #  url: /year-archive/
