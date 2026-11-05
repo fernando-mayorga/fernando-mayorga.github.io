@@ -9,7 +9,7 @@ author_profile: true
 
 <h2 class="proyecto__titulo">Revista Quimera <span class="proyecto__anios">1985–1987</span></h2>
 
-<p class="proyecto__lema">«Para pensar con sentido propio»</p>
+<!--  <p class="proyecto__lema">«Para pensar con sentido propio»</p>  -->
 
 <p>
 
