@@ -16,6 +16,8 @@ Soy catedrático en la Facultad de Ciencias Sociales (FACSO) y director a.i. de 
 Me dedico al análisis político con una metodología ecléctica y tengo varios estudios sobre partidos y movimientos sociales en Bolivia que prestan atención a los cambios y continuidades en la democracia -intercultural- y el Estado -plurinacional.
 
 ## Actividad reciente
+*13/11/2026*. [Conversación](https://www.youtube.com/watch?v=o7TRn5mYCZw&rco=1) con Enrique Birhuett y Miguel Fernández en *Hay junte* de CESU-UMSS: *La ley de electricidad: Más allá de la elevación de tarifas*. <br>
+
 *20/10/2026*. [Conversación](https://www.youtube.com/watch?v=ZrLWShufjfU&t=3520s) con Luciana Jaúregui en *Hay junte* de CESU-UMSS: *El estilo de gobierno de Rodrigo Paz y sus efectos en la democracia*. <br>
 
 *20/10/2026*. Visita mi nuevo canal de Youtube: [youtube.com/@fermayorgau](https://www.youtube.com/@fermayorgau). <br> 
