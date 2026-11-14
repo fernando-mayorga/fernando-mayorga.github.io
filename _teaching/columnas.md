@@ -260,6 +260,9 @@ curiosos/as.
 [Sin enredos](https://hemeroteca.larazon.bo/voces/2016/03/27/sin-enredos/) <br>
 <small> *La Razón*, La Paz, 27 de marzo de 2016. </small>
 
+[Bolivia en la películas](https://www.lostiempos.com/actualidad/opinion/20160304/columna/bolivia-peliculas) <br>
+<small> *Los Tiempos*, Cochabamba, 4 de marzo de 2016. </small>
+
 [El campo político posconsulta. Referéndum constitucional: ni polarización ni división](https://hemeroteca.larazon.bo/politico/2016/02/29/el-campo-politico-posconsulta-referendum-constitucional-ni-polarizacion-ni-division/) <br>
 <small> *La Razón*, La Paz, 29 de febrero de 2016. </small>
 
