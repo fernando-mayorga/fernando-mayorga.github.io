@@ -14,7 +14,7 @@ citation: "
           [Resistir y retornar: avatares del proceso decisional en el MAS-IPSP (2019-2021)](/files/libros/Resistir%20y%20retornar%202da.%20edicio%CC%81n.pdf) <br> 
                     <small> *Fundación Friedrich Ebert*, La Paz, 2025. Segunda edición. </small> <br>
                     <small>  </small> <br> 
-          [El discurso del nacionalismo revolucionario en Bolivia y otros ensayos](/files/libros/El%20discurso%20del%20nacionalismo%20revolucionario%20y%20oros%20ensayos.pdf) <br> 
+          [El discurso del nacionalismo revolucionario en Bolivia y otros ensayos](/files/libros/El%20discurso%20del%20nacionalismo%20revolucionario%20y%20otros%20ensayos.pdf) <br> 
                     <small> *Plural Editores*, La Paz, 2024. </small> <br> 
                     <small>  </small> <br> 
           [Transiciones: ensayos sobre democracia en tiempos de crisis (2019-2020)](/files/libros/Transiciones.%20Ensayos%20sobre%20democracia%20en%20tiempos%20de%20crisis.pdf) <br> 
@@ -41,7 +41,7 @@ citation: "
                     <small> *PIEB, Ciudadanía y Plural Editores*, La Paz, 2014. </small> <br> 
                     <small> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=hEGzUAQAAAAJ&citation_for_view=hEGzUAQAAAAJ:W7OEmFMy1HYC) </small> <br> 
                     <small>  </small> <br> 
-          [Dilemas: Ensayos sobre democracia intercultural y Estado Plurinacional](/files/libros/Dilemas.%20Ensayos%20sobre%20%20democracia%20intercultural%20y%20Estado%20Plurinacional.pdf) <br> 
+          [Dilemas: Ensayos sobre democracia intercultural y Estado Plurinacional](/files/libros/Dilemas.%20Ensayos%20sobre%20democracia%20intercultural%20y%20Estado%20Plurinacional.pdf) <br> 
                     <small> *Plural Editores*, La Paz, 2011. </small> <br> 
                     <small> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=hEGzUAQAAAAJ&citation_for_view=hEGzUAQAAAAJ:IjCSPb-OGe4C) </small> <br> 
                     <small>  </small> <br> 
