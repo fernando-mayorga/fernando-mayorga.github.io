@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## CV completo [aquí](https://drive.google.com/file/d/1f1MIw3OifHCiA95AvxyUWYtG7KwghcLD/view?usp=sharing).
+## CV completo [aquí](/files/cvs/CV%completo%Fernando%Mayorga%2026_Oct_27.pdf).
 
 ## Empleo actual
 ---
