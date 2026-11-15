@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## CV completo [aquí](/files/cvs/CV%completo%Fernando%Mayorga%2026_Oct_27.pdf).
+## CV completo [aquí](/files/cvs/CV%20completo%20Fernando%20Mayorga%202026_Oct_27.pdf).
 
 ## Empleo actual
 ---
