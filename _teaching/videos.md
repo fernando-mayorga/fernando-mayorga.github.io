@@ -39,5 +39,5 @@ Con Manuel Castells y José Luis Exeni <br>
 <small> *Esta casa no es hotel por ATB*, 19 de marzo de 2018. </small> <br>
 
 [Panel: Dilemas actuales de los gobiernos progresistas](https://www.youtube.com/watch?v=C9fLotP07PI) <br> 
-<small> *Congreso ALAS 2017*, 4 de diciembre de 2017. </small> <br>
+<small> *Congreso de la Asociación Latinoamericana de Sociología (ALAS) 2017*, 4 de diciembre de 2017. </small> <br>
 
